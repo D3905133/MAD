@@ -1,1 +1,1 @@
-# MAD
+# Tripzy - Smart Travel Guide Application
